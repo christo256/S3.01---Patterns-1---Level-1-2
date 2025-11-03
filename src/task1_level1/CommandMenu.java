@@ -1,3 +1,5 @@
+package task1_level1;
+
 import java.util.Scanner;
 
 public class CommandMenu {

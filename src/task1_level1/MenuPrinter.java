@@ -1,7 +1,9 @@
+package task1_level1;
+
 public class MenuPrinter {
 
     public void printerHeader() {
-        System.out.println("=== Undo Command Exercise ===");
+        System.out.println("=== task1_level1.Undo Command Exercise ===");
     }
 
     public void printMenu() {
