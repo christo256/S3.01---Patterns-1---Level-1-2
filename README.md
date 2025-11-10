@@ -88,7 +88,7 @@ public class Main {
 · Java 21+
 · Design Patterns: Singleton, Abstract Factory
 · Git & GitHub for version control
-· IDE: IntelliJ IDEA, Eclipse, or any preferred Java IDE
+· IDE: IntelliJ IDEA
 
 ## 📋 Requirements
 
