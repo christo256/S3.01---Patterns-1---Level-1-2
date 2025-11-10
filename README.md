@@ -93,9 +93,13 @@ public class Main {
 ## 📋 Requirements
 
 · JDK 11 or higher
+
 · A Java IDE (such as IntelliJ IDEA or Eclipse)
+
 · Basic knowledge of design patterns (Singleton and Abstract Factory)
+
 · Basic Java knowledge (OOP, classes, interfaces, etc.)
+
 ---
 ## 🛠️ Installation
 
